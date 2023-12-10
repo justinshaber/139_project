@@ -1,4 +1,4 @@
-require 'bundler/gem_tasks' # I bet this needs a gemspec????
+require 'bundler/gem_tasks' # needs a .gemspec in project dir and `gemspec` statement in Gemfile
 require 'rake/testtask'
 
 desc 'Say hello'
